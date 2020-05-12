@@ -1,2 +1,2 @@
-# octoPrint-brightPi
+# octoBright
 Bright Pi plugin for OctoPrint
